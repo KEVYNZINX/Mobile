@@ -1,0 +1,39 @@
+
+body{
+   position:fixed;
+   height: 100px;
+   top: 10px;
+   right: 0px;
+   bottom: 0px;
+   left: 0px;
+   margin: 0px;
+   padding: 0px;
+    background-color: rgb(186, 218, 247);
+   text-align: center;
+
+}
+form,label {
+    display: block;
+    padding: 10px;
+}
+
+  .titulo{
+    text-align: center;
+    border-radius: 15px;
+    font-size: 35px;
+    color: lightcoral;
+}
+.form-group {
+ font-style: oblique;
+}
+label{
+    display: block;
+}
+form{
+    display: block;
+}
+.btn{
+    background-color: rgb(97, 93, 93);
+color: aqua;
+    font-size: 25px;
+}
